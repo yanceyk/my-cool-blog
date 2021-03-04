@@ -1,5 +1,4 @@
-import { Link } from "gatsby"
-import * as React from "react"
+import * as React from "react";
 import Header from '../components/header';
 
 // styles
